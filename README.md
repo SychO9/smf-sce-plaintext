@@ -1,5 +1,5 @@
 ## SMF SCEditor Plaintext Plugin
-![SCEditor](https://img.shields.io/badge/2.1.2-blue.svg?style=flat-square&color=4082fc)
+![SCEditor](https://img.shields.io/badge/SCEditor-2.1.2-blue.svg?style=flat-square&color=4082fc)
 ![SMF2.1](https://img.shields.io/badge/SMF-2.1-blue.svg?style=flat-square&color=ed6033)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square&color=green)
 Implements SCEditor's plaintext plugin into SMF2.1
