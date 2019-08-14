@@ -15,7 +15,7 @@
 		<hook hook="integrate_sceditor_options" function="spp_sceditor_options" file="$sourcedir/SCEditor-Plaintext.php" />
 	</install>
 
-	<uninstall for="2.1 - 2.1.99, 2.1 RC2, 2.1 RC3">
+	<uninstall for="2.1 - 2.1.99, 2.1 RC2, 2.1 RC3, 2.1 RC4">
 		<!-- hooks -->
 		<hook hook="integrate_sceditor_options" function="spp_sceditor_options" file="$sourcedir/SCEditor-Plaintext.php" reverse="true"/>
 		<!-- files -->
