@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
-	<name>SMF SCEditor Plaintext Plugin</name>
+	<name>SCEditor Plaintext Plugin</name>
 	<id>SychO:scepp</id>
 	<type>modification</type>
 	<version>1.0</version>
@@ -9,7 +9,7 @@
 	<install for="2.1 - 2.1.99, 2.1 RC2, 2.1 RC3, 2.1 RC4">
 		<readme type="file" parsebbc="true">README.txt</readme>
 		<!-- files -->
-		<require-file name="SCEditor-Plaintext.php" destination="$sourcedir" />
+		<require-file name="src/SCEditor-Plaintext.php" destination="$sourcedir" />
 		<require-file name="src/sceditor.plaintext.js" destination="Themes/default/scripts" />
 		<!-- hooks -->
 		<hook hook="integrate_sceditor_options" function="spp_sceditor_options" file="$sourcedir/SCEditor-Plaintext.php" />
