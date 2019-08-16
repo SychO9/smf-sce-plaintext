@@ -10,4 +10,4 @@ Implements SCEditor's plaintext plugin into SMF2.1
 This package is released under the MIT License. A full copy of this license is included in the package file.
 
 [b][size=16px]Copyrights[/size][/b]
-[url=http://www.sceditor.com/]SCEditor[/url]] &copy; 2019
+[url=http://www.sceditor.com/]SCEditor[/url] &copy; 2019
